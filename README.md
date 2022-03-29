@@ -20,3 +20,6 @@
 
 - 在客户端中 ping 另一个vpn的静态IP
 ![Ping](https://github.com/OwnDing/OpenVPN-Cluster/blob/main/pic/ping.PNG)
+
+- 说明图
+![Demo](https://github.com/OwnDing/OpenVPN-Cluster/blob/main/pic/demo.png)
