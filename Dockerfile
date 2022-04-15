@@ -13,9 +13,10 @@ WORKDIR /app
 
 COPY Pipfile /app/Pipfile
 
-RUN apk add -t install_dep python3-dev build-base
+#RUN apk add -t install_dep python3-dev build-base
+RUN apk add -t python3-dev build-base
 RUN pipenv install
-RUN apk del -r install_dep
+#RUN apk del -r install_dep
 
 COPY learn-address.sh /app/learn-address.sh
 COPY route_listener.py /app/route_listener.py
