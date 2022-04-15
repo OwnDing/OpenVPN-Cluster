@@ -23,3 +23,7 @@
 
 - 说明图
 ![Demo](https://github.com/OwnDing/OpenVPN-Cluster/blob/main/pic/demo.png)
+
+## 镜像下载
+- 该镜像打包于2022/4/14
+- 执行：docker pull dingjianchen/vpn
