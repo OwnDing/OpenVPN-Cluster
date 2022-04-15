@@ -11,6 +11,7 @@
 
 ## 步骤
 - 使用 [kylemanna/openvpn](https://hub.docker.com/r/kylemanna/openvpn/) 镜像初始化证书，并生成两个用户文件：user1、user2
+- 修改openvpn.conf及open_env.sh两个文件，开启client-to-client等选项（具体示例见相关文件）
 - 启动两个新打包的openvpn容器
 - 在 ccd 文件夹中新增两个 user1、user2文件，配置不同的静态IP：192.168.255.6；192.168.255.10
 ![静态IP](https://github.com/OwnDing/OpenVPN-Cluster/blob/main/pic/sip.PNG)
