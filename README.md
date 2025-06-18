@@ -30,4 +30,4 @@
 - 执行：docker pull dingjianchen/vpn
 
 ## 文章链接：
-- http://www.ownding.com/2025/06/06/%E6%9E%84%E5%BB%BAOpenVPN%E9%9B%86%E7%BE%A4%EF%BC%8C%E5%AE%9E%E7%8E%B0%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%AE%89%E5%85%A8%E4%BA%92%E8%81%94/
+- https://ownding.com/2025/06/06/%E6%9E%84%E5%BB%BAOpenVPN%E9%9B%86%E7%BE%A4%EF%BC%8C%E5%AE%9E%E7%8E%B0%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%AE%89%E5%85%A8%E4%BA%92%E8%81%94/
